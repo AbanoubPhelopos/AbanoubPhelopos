@@ -24,14 +24,14 @@
    <a href="mailto:abanoub.saweris02@gmail.com" title="Gmail"><img src="https://static.vecteezy.com/system/resources/previews/020/964/377/original/gmail-mail-icon-for-web-design-free-png.png"  height="30" width="40" /></a>
 </p>
 <br>
-## 📩 Compatitave Programing
-<p>
+<h3 align="left"> Compatitave Programing :</h3>
+<p align="center">
 <a href="https://codeforces.com/profile/__PoP__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="__pop__" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/abanoubphelopos12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abanoubphelopos22" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="left"> Languages and Tools:</h3>
+<p align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
   </a>
