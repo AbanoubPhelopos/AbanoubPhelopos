@@ -57,4 +57,11 @@
   </a>
 </p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbanoubPhelopos
+&show_icons=true&locale=en&layout=compact" alt="AbanoubPhelopos
+" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbanoubPhelopos
+&" alt="AbanoubPhelopos
+" /></p>
 
