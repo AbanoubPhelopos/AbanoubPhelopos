@@ -1,17 +1,30 @@
 <h1 align="center">Hi 👋, I'm Abanoub Saweris</h1>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" alt="Welcome GIF" />
-</p>
-<h3 align="center">A passionate software developer from Egypt</h3>
+<h3 align="center">Software Developer | Backend | ASP.NET CORE </h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/abanoub-saweris-a6a813220/" target="_blank">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=AbanoubPhelopos&label=Profile%20views&color=0e75b6&style=flat" alt="AbanoubPhelopos" />
+		   <img src="https://img.shields.io/github/followers/AbanoubPhelopos?label=Followers" alt="AbanoubPhelopos" />
+</p>
+<br>
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
+
+- :school: I am a `Computer Science Student` from the Faculty of Computers & Information at Ain Shams University
+- 🔭 I’m currently working at [Etisalat Egypt](https://www.linkedin.com/company/etisalat-egypt/)
+- 🌱 I’m currently studying `ASP.NET Core`
+- 📫 How to reach me **abanoub.saweris02@gmail.com**
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1w2wYa-VL07Cr497eZhuonreMeE0xbg1I/view?usp=sharing).
+- :nerd_face: Always `learning new things`
+- 🐼 Doing my best 
+
+<br>
+
+## 📩 Connect with me
+<p align="center">
+    <a href="https://www.linkedin.com/in/abanoub-saweris-a6a813220/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abanoub Saweris LinkedIn" height="30" width="40" />
   </a>
+   <a href="mailto:abanoub.saweris02@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://codeforces.com/profile/__PoP__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="__pop__" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/abanoubphelopos12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abanoubphelopos22" height="30" width="40" /></a>
-</p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -57,11 +70,15 @@
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbanoubPhelopos
-&show_icons=true&locale=en&layout=compact" alt="AbanoubPhelopos
-" /></p>
+## 📊 Github Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AbanoubPhelopos&theme=tokyonight_duo" alt="AbanoubPhelopos" /></p>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+	    <img alt="AbanoubPhelopos's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AbanoubPhelopos&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbanoubPhelopos&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="AbanoubPhelopos" height="230px"/>
+<br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbanoubPhelopos
-&" alt="AbanoubPhelopos
-" /></p>
-
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+  
