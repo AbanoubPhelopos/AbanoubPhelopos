@@ -8,7 +8,6 @@
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
 - :school: I am a `Computer Science Student` from the Faculty of Computers & Information at Ain Shams University
-- 🔭 I’m currently working at [Etisalat Egypt](https://www.linkedin.com/company/etisalat-egypt/)
 - 🌱 I’m currently studying `ASP.NET Core`
 - 📫 How to reach me **abanoub.saweris02@gmail.com**
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1w2wYa-VL07Cr497eZhuonreMeE0xbg1I/view?usp=sharing).
@@ -22,7 +21,7 @@
     <a href="https://www.linkedin.com/in/abanoub-saweris-a6a813220/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abanoub Saweris LinkedIn" height="30" width="40" />
   </a>
-   <a href="mailto:abanoub.saweris02@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+   <a href="mailto:abanoub.saweris02@gmail.com" title="Gmail"><img src="https://static.vecteezy.com/system/resources/previews/020/964/377/original/gmail-mail-icon-for-web-design-free-png.png"/></a>
   <a href="https://codeforces.com/profile/__PoP__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="__pop__" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/abanoubphelopos12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abanoubphelopos22" height="30" width="40" /></a>
 </p>
