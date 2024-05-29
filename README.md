@@ -9,6 +9,9 @@
   <a href="https://www.linkedin.com/in/abanoub-saweris-a6a813220/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abanoub Saweris LinkedIn" height="30" width="40" />
   </a>
+  <a href="https://codeforces.com/profile/__PoP__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="__pop__" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/abanoubphelopos12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abanoubphelopos22" height="30" width="40" /></a>
+</p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
