@@ -2,7 +2,6 @@
 <h3 align="center">Software Developer | Backend | ASP.NET CORE </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AbanoubPhelopos&label=Profile%20views&color=0e75b6&style=flat" alt="AbanoubPhelopos" />
-		   <img src="https://img.shields.io/github/followers/AbanoubPhelopos?label=Followers" alt="AbanoubPhelopos" />
 </p>
 <br>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
