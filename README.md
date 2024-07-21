@@ -1,36 +1,37 @@
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Abanoub Saweris</h1>
-<h3 align="center">Software Developer | Backend | ASP.NET CORE </h3>
+<h3 align="center">A passionate ASP.Net Core Developer from Egypt</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=AbanoubPhelopos&label=Profile%20views&color=0e75b6&style=flat" alt="AbanoubPhelopos" />
-</p>
-<br>
-<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
-- :school: I am a `Computer Science Student` from the Faculty of Computers & Information at Ain Shams University
-- 🌱 I’m currently studying `ASP.NET Core`
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="AbanoubSaweris" /> </p>
+
+<p align="left"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda"  </p>
+
+- 🔭 I’m currently working on **Shopy | IMDB**
+
+- 🌱 I’m currently learning **ASP.NET CORE**
+
+- 💬 Ask me about **ASP.NET CORE**
+
 - 📫 How to reach me **abanoub.saweris02@gmail.com**
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1w2wYa-VL07Cr497eZhuonreMeE0xbg1I/view?usp=sharing).
-- :nerd_face: Always `learning new things`
-- 🐼 Doing my best 
 
-<br>
+- ⚡ Fun fact **I am Funny**
 
-## 📩 Connect with me
-<p align="center">
-    <a href="https://www.linkedin.com/in/abanoub-saweris-a6a813220/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abanoub Saweris LinkedIn" alt="Abanoub Saweris Gmail" height="30" width="40" />
-  </a>
-   <a href="mailto:abanoub.saweris02@gmail.com" title="Gmail"><img src="https://static.vecteezy.com/system/resources/previews/020/964/377/original/gmail-mail-icon-for-web-design-free-png.png"  height="30" width="40" /></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/abanoub-saweris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AbanoubSAweris" height="30" width="40" /></a>
 </p>
-<br>
+
 <h3 align="left"> Compatitave Programing :</h3>
 <p align="center">
-<a href="https://codeforces.com/profile/__PoP__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="__pop__" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/abanoubphelopos12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abanoubphelopos22" height="30" width="40" /></a>
 </p>
 
-<h3 align="left"> Languages and Tools:</h3>
-<p align="center">
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
   </a>
@@ -72,14 +73,10 @@
   </a>
 </p>
 
-## 📊 Github Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AbanoubPhelopos&theme=tokyonight_duo" alt="AbanoubPhelopos" /></p>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	<img alt="AbanoubPhelopos's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AbanoubPhelopos&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
-<br/>
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=AbanoubPhelopos&&theme=xcode)](https://github.com/AbanoubPhelopos)
 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbanoubPhelopos&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="AbanoubPhelopos" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbanoubPhelopos&show_icons=true&locale=en&theme=tokyonight" alt="AbanoubPhelopos" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbanoubPhelopos&&theme=tokyonight" alt="AbanoubPhelopos" /></p>
