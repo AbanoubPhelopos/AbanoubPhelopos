@@ -70,9 +70,3 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="Qt" width="40" height="40" />
   </a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbanoubPhelopos&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="AbanoubPhelopos" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbanoubPhelopos&show_icons=true&locale=en&theme=tokyonight" alt="AbanoubPhelopos" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbanoubPhelopos&&theme=tokyonight" alt="AbanoubPhelopos" /></p>
