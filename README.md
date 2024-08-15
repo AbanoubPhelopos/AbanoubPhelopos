@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbanoubPhelopos&label=Profile%20views&color=0e75b6&style=flat" alt="AbanoubSaweris" /> </p>
 
-- 🔭 I’m currently working on **Shopy | IMDB**
+- 🔭 I’m currently working on **Shopy | Talabat**
 
 - 🌱 I’m currently learning **ASP.NET CORE**
 
