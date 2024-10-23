@@ -23,5 +23,4 @@
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,github,git" />
     <img src="https://skillicons.dev/icons?i=dotnet,cs,cpp,c,java" /><br>
 </div>
-<h3>📊 Stats</h3>
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbanoubPhelopos&show_icons=true&theme=gruvbox&align="center")
+<h3>📊 GitHub Stats</h3> <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=AbanoubPhelopos&show_icons=true&theme=gruvbox" alt="GitHub stats" /> </p>
