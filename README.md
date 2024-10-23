@@ -6,8 +6,8 @@
 - 🔭 I’m currently working on **Fos | Survey Basket**
 
 - 🌱 I’m currently learning **Backend | ASP.NET CORE**
-- 
-- 📫 How to reach me **abanoub.saweris02@gmail.com**
+  
+- <img src="https://skillicons.dev/icons?i=gmail"/> Email **abanoub.saweris02@gmail.com**
   
 <h3 align="left">Connect with me:</h3>
 <div align="left"> 
