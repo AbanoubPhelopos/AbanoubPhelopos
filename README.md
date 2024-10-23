@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Backend | ASP.NET CORE**
   
-- <img src="https://skillicons.dev/icons?i=gmail" width="35" hieght="25"/> ***abanoub.saweris02@gmail.com***
+- <img src="https://skillicons.dev/icons?i=gmail" width="30" hieght="25"/> ***abanoub.saweris02@gmail.com***
   
 <h3 align="left">Connect with me:</h3>
 <div align="left"> 
