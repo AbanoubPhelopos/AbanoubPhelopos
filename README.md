@@ -64,3 +64,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="Qt" width="40" height="40" />
   </a>
 </p>
+### 📊 Stats
+
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbanoubPhelopos&show_icons=true&theme=gruvbox)
