@@ -61,4 +61,4 @@
 </p>
 <h1>📊 Stats</h1>
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbanoubPhelopos&show_icons=true&theme=gruvbox)
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbanoubPhelopos&show_icons=true&theme=gruvbox&align="center")
