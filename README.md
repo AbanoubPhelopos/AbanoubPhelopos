@@ -1,30 +1,59 @@
-<h1 align="center">Hi 👋, I'm Abanoub Saweris</h1>
-<h3 align="center">A passionate ASP.NET CORE Developer from Egypt</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbanoubPhelopos&label=Profile%20views&color=0e75b6&style=flat" alt="AbanoubSaweris" /> </p>
+<h1 align="center">Abanoub Saweris</h1>
+<h3 align="center">Senior ASP.NET Core Developer | Backend Specialist</h3>
 
-- 🔭 I’m currently working on **Fos | Survey Basket**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AbanoubPhelopos&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-- 🌱 I’m currently learning **Backend | ASP.NET CORE**
-  
-- <img src="https://skillicons.dev/icons?i=gmail" width="30" hieght="20"/> ***abanoub.saweris02@gmail.com***
-  
-<h3 align="left">Connect with me:</h3>
-<div align="left"> 
-  <a href="https://www.linkedin.com/in/abanoub-saweris/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+<div align="center">
+  <img align="right" alt="Development Animation" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+</div>
+
+### 🚀 Professional Summary
+- Senior Backend Developer specializing in ASP.NET Core
+- Focused on building scalable and efficient web applications
+- Based in Egypt with global project experience
+
+### 🔭 Current Projects
+- Lead Developer at **Fos | Survey Basket**
+- Implementing enterprise-level solutions using .NET technologies
+
+### 💡 Technical Expertise
+- Backend Development with ASP.NET Core
+- RESTful API Design and Implementation
+- Database Architecture and Optimization
+- Cloud Infrastructure Management
+
+### 📫 Contact Information
+<div align="left">
+  <a href="mailto:abanoub.saweris02@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="30" height="20" alt="Gmail"/> abanoub.saweris02@gmail.com
   </a>
 </div>
-<h3 align="left">Languages-Framework-Tools:</h3>
-<div align="left">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,github,git" />
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,cpp,c,java" /><br>
+
+### 🤝 Professional Network
+<div align="left"> 
+  <a href="https://www.linkedin.com/in/abanoub-saweris/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </div>
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 hieght=250 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=AbanoubPhelopos&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 hieght=250 src="https://github-readme-stats-salesp07.vercel.app/api?username=AbanoubPhelopos&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+
+### 💻 Technical Stack
+<div align="left">
+    <h4>Frontend Technologies</h4>
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css" alt="Frontend Skills"/>
+    
+    <h4>Backend & Programming Languages</h4>
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,cpp,c,java" alt="Backend Skills"/>
+    
+    <h4>Version Control & Tools</h4>
+    <img src="https://skillicons.dev/icons?i=github,git" alt="Development Tools"/>
+</div>
+
+### 📊 Performance Analytics
+<div align="center">
+  <img width="48%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=AbanoubPhelopos&count_private=true&theme=react&border_radius=10" alt="Contribution Streak"/>
+  <img width="48%" src="https://github-readme-stats-salesp07.vercel.app/api?username=AbanoubPhelopos&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Statistics"/>
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=AbanoubPhelopos&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width="40%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=AbanoubPhelopos&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Programming Languages"/>
 </div>
