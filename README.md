@@ -10,13 +10,8 @@
 </div>
 
 ### 🚀 Professional Summary
-- Senior Backend Developer specializing in ASP.NET Core
+- Jr. Backend Developer specializing in ASP.NET Core
 - Focused on building scalable and efficient web applications
-- Based in Egypt with global project experience
-
-### 🔭 Current Projects
-- Lead Developer at **Fos | Survey Basket**
-- Implementing enterprise-level solutions using .NET technologies
 
 ### 💡 Technical Expertise
 - Backend Development with ASP.NET Core
@@ -42,18 +37,16 @@
 <div align="left">
     <h4>Frontend Technologies</h4>
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css" alt="Frontend Skills"/>
-    
     <h4>Backend & Programming Languages</h4>
     <img src="https://skillicons.dev/icons?i=dotnet,cs,cpp,c,java" alt="Backend Skills"/>
-    
     <h4>Version Control & Tools</h4>
     <img src="https://skillicons.dev/icons?i=github,git" alt="Development Tools"/>
 </div>
 
 ### 📊 Performance Analytics
 <div align="center">
-  <img width="48%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=AbanoubPhelopos&count_private=true&theme=react&border_radius=10" alt="Contribution Streak"/>
-  <img width="48%" src="https://github-readme-stats-salesp07.vercel.app/api?username=AbanoubPhelopos&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Statistics"/>
+  <img width="390" src="https://streak-stats.demolab.com/?user=AbanoubPhelopos&theme=react&border_radius=10" alt="GitHub Streak"/>
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=AbanoubPhelopos&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats"/>
   <br/>
-  <img width="40%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=AbanoubPhelopos&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Programming Languages"/>
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbanoubPhelopos&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages"/>
 </div>
