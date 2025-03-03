@@ -12,12 +12,27 @@
 ### 🚀 Professional Summary
 - Jr. Backend Developer specializing in ASP.NET Core
 - Focused on building scalable and efficient web applications
+- Passionate about clean code and software architecture
 
 ### 💡 Technical Expertise
 - Backend Development with ASP.NET Core
 - RESTful API Design and Implementation
 - Database Architecture and Optimization
 - Cloud Infrastructure Management
+
+### 📊 Performance Analytics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbanoubPhelopos&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbanoubPhelopos&theme=radical&hide_border=false" alt="GitHub Streak"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbanoubPhelopos&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+</div>
+
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbanoubPhelopos&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+</div>
 
 ### 📫 Contact Information
 <div align="left">
@@ -43,6 +58,7 @@
     <img src="https://skillicons.dev/icons?i=github,git" alt="Development Tools"/>
 </div>
 
-### 📊 Performance Analytics
-![](https://github-readme-stats.vercel.app/api?username=AbanoubPhelopos&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
+---
+<div align="center">
+  <i>Happy Coding! 🚀</i>
+</div>
