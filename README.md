@@ -23,15 +23,10 @@
 ### 📊 Performance Analytics
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbanoubPhelopos&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <br/>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbanoubPhelopos&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 </div>
 
-### 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbanoubPhelopos&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-</div>
 
 ### 📫 Contact Information
 <div align="left">
