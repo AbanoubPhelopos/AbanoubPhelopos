@@ -14,20 +14,6 @@
 - Focused on building scalable and efficient web applications
 - Passionate about clean code and software architecture
 
-### 💡 Technical Expertise
-- Backend Development with ASP.NET Core
-- RESTful API Design and Implementation
-- Database Architecture and Optimization
-- Cloud Infrastructure Management
-
-### 📊 Performance Analytics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbanoubPhelopos&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbanoubPhelopos&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
-</div>
-
-
 ### 📫 Contact Information
 <div align="left">
   <a href="mailto:abanoub.saweris02@gmail.com">
@@ -41,6 +27,14 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
+
+### 📊 Performance Analytics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbanoubPhelopos&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbanoubPhelopos&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+</div>
+
 
 ### 💻 Technical Stack
 <div align="left">
