@@ -25,6 +25,7 @@
   </a>
 </div>
 
+<br/>
 
 ### 📊 Performance Analytics
 <div align="center">
