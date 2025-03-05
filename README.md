@@ -45,7 +45,3 @@
     <img src="https://skillicons.dev/icons?i=github,git" alt="Development Tools"/>
 </div>
 
----
-<div align="center">
-  <i>Happy Coding! 🚀</i>
-</div>
