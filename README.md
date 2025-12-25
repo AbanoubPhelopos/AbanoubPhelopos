@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Abanoub Saweris 👋</h1>
 
 <h3 align="center">
-  🚀 Distributed Systems Engineer | 🟣 Pupil @Codeforces | ☁️ .NET Backend Specialist
+  🚀 Distributed Systems Engineer | 🟢 Pupil @Codeforces | ☁️ .NET Backend Specialist
 </h3>
 
 <p align="center">
@@ -24,32 +24,32 @@
 
 ### 👨‍💻 Professional Summary
 
-[cite_start]I am a final-year **Computer Science Student** at Ain Shams University (Exp. 2026) [cite: 6] with a deep focus on **System Design** and **Distributed Systems**. I architect high-traffic solutions using Clean Architecture and Microservices principles.
+I am a final-year **Computer Science Student** at Ain Shams University (Exp. 2026) with a deep focus on **System Design** and **Distributed Systems**. I architect high-traffic solutions using Clean Architecture and Microservices principles.
 
 * 🔭 **Current Focus:** Designing scalable, distributed backend systems and optimizing data pipelines.
 * 💼 **Work Experience:**
-    * [cite_start]**Backend Developer at CUBE:** Engineering tournament systems handling **100K+ concurrent participants** and **1M+ users**[cite: 9].
-    * [cite_start]**Data Engineering Intern at ISYS:** Built ELT pipelines using Hadoop/Spark, reducing processing time by 40%[cite: 12].
-    * [cite_start]**Freelance Developer at Dirah:** Built a multi-tenant SaaS for 1,000+ daily users[cite: 14].
+    * **Backend Developer at CUBE:** Engineering tournament systems handling **100K+ concurrent participants** and **1M+ users**.
+    * **Data Engineering Intern at ISYS:** Built ELT pipelines using Hadoop/Spark, reducing processing time by 40%.
+    * **Freelance Developer at Dirah:** Built a multi-tenant SaaS for 1,000+ daily users.
 * 🧠 **Key Interests:** Distributed Systems, High-Performance Computing, and Advanced Algorithms.
-* [cite_start]🏆 **Achievements:** 3rd Place Winner at Neuronetix Hackathon[cite: 28].
+* 🏆 **Achievements:** 3rd Place Winner at Neuronetix Hackathon.
 
 ---
 
 ### 🧩 Competitive Programming
 
-I am a highly active competitive programmer ranked as a **Candidate Master (Purple)** on Codeforces. I enjoy solving complex algorithmic problems involved in distributed computing.
+I am a highly active competitive programmer ranked as a **Pupil (Green)** on Codeforces. I enjoy solving complex algorithmic problems involved in distributed computing.
 
 <div align="center">
   
   <a href="https://codeforces.com/profile/__PoP__">
-    <img src="https://img.shields.io/badge/Codeforces-Candidate%20Master%20(Purple)-9400D3?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Rank" />
+    <img src="https://img.shields.io/badge/Codeforces-Pupil-008000?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Rank" />
   </a>
 
   <br /><br />
 
   <a href="https://leetcode.com/u/Abanoub-Saweris/">
-    <img src="https://leetcard.app/api/Abanoub-Saweris?theme=dark&font=Segoe%20UI&ext=heatmap" alt="LeetCode Stats" />
+    <img src="https://leetcode-stats-six.vercel.app/api?username=Abanoub-Saweris&theme=dark&hide_border=true&font=Segoe%20UI&animation=true" alt="LeetCode Stats" />
   </a>
 
 </div>
@@ -75,11 +75,11 @@ I am a highly active competitive programmer ranked as a **Candidate Master (Purp
 
 <div align="center">
 
-  <img src="./image_24d4e8.png" alt="My GitHub Streak" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbanoubPhelopos&theme=radical&hide_border=true" alt="GitHub Streak" />
   
   <br/><br/>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=AbanoubPhelopos&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Abanoub's Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbanoubPhelopos&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Abanoub's Github Stats" />
   
   <br/>
   
@@ -93,9 +93,9 @@ I am a highly active competitive programmer ranked as a **Candidate Master (Purp
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **Gamification Engine** | [cite_start]Architected a system for 1M+ users with Redis caching to handle high concurrency[cite: 9, 10]. | `.NET` `Redis` `Distributed Systems` |
-| **FOS (Custom OS)** | [cite_start]Engineered a custom OS kernel with priority scheduling and semaphores[cite: 22]. | `C` `Assembly` `OS Architecture` |
-| **Cryptography Suite** | [cite_start]Implementation of 12+ encryption algorithms (DES, AES, RSA) with secure key exchange[cite: 24]. | `C++` `Security` `Algorithms` |
+| **Gamification Engine** | Architected a system for 1M+ users with Redis caching to handle high concurrency. | `.NET` `Redis` `Distributed Systems` |
+| **FOS (Custom OS)** | Engineered a custom OS kernel with priority scheduling and semaphores. | `C` `Assembly` `OS Architecture` |
+| **Cryptography Suite** | Implementation of 12+ encryption algorithms (DES, AES, RSA) with secure key exchange. | `C++` `Security` `Algorithms` |
 
 ---
 
