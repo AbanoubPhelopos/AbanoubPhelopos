@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/AbanoubPhelopos">
-    <img src="https://komarev.com/ghpvc/?username=AbanoubPhelopos&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/AbanoubPhelopos?label=Follow&style=social" alt="GitHub Followers" />
   </a>
   <a href="https://linkedin.com/in/abanoub-saweris/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
@@ -31,25 +31,22 @@ I am a final-year **Computer Science Student** at Ain Shams University (Exp. 202
     * **Backend Developer at CUBE:** Engineering tournament systems handling **100K+ concurrent participants** and **1M+ users**.
     * **Data Engineering Intern at ISYS:** Built ELT pipelines using Hadoop/Spark, reducing processing time by 40%.
     * **Freelance Developer at Dirah:** Built a multi-tenant SaaS for 1,000+ daily users.
-* 🧠 **Key Interests:** Distributed Systems, High-Performance Computing, and Advanced Algorithms.
 * 🏆 **Achievements:** 3rd Place Winner at Neuronetix Hackathon.
 
 ---
 
 ### 🧩 Competitive Programming
 
-I am a highly active competitive programmer ranked as a **Pupil (Green)** on Codeforces. I enjoy solving complex algorithmic problems involved in distributed computing.
+I am a highly active competitive programmer. I enjoy solving complex algorithmic problems involved in distributed computing.
 
 <div align="center">
   
   <a href="https://codeforces.com/profile/__PoP__">
-    <img src="https://img.shields.io/badge/Codeforces-Pupil-008000?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Rank" />
+    <img src="https://img.shields.io/badge/Codeforces-Pupil%20(Green)-008000?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Rank" />
   </a>
 
-  <br /><br />
-
   <a href="https://leetcode.com/u/Abanoub-Saweris/">
-    <img src="https://leetcode-stats-six.vercel.app/api?username=Abanoub-Saweris&theme=dark&hide_border=true&font=Segoe%20UI&animation=true" alt="LeetCode Stats" />
+    <img src="https://img.shields.io/badge/LeetCode-Abanoub--Saweris-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
   </a>
 
 </div>
@@ -62,28 +59,10 @@ I am a highly active competitive programmer ranked as a **Pupil (Green)** on Cod
 
 | **Category** | **Technologies** |
 |:---:|:---|
-| **Backend** | ![C#](https://skillicons.dev/icons?i=cs) ![.NET](https://skillicons.dev/icons?i=dotnet) ![Java](https://skillicons.dev/icons?i=java) ![C++](https://skillicons.dev/icons?i=cpp) |
-| **System Design & DB** | ![Redis](https://skillicons.dev/icons?i=redis) ![Kafka](https://skillicons.dev/icons?i=kafka) ![Postgres](https://skillicons.dev/icons?i=postgres) ![SQL Server](https://skillicons.dev/icons?i=mssql) |
-| **Big Data & Cloud** | ![Hadoop](https://skillicons.dev/icons?i=hadoop) ![Azure](https://skillicons.dev/icons?i=azure) ![Docker](https://skillicons.dev/icons?i=docker) ![Nginx](https://skillicons.dev/icons?i=nginx) |
-| **Frontend** | ![Angular](https://skillicons.dev/icons?i=angular) ![TS](https://skillicons.dev/icons?i=ts) ![Tailwind](https://skillicons.dev/icons?i=tailwind) |
-
-</div>
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbanoubPhelopos&theme=radical&hide_border=true" alt="GitHub Streak" />
-  
-  <br/><br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=AbanoubPhelopos&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Abanoub's Github Stats" />
-  
-  <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbanoubPhelopos&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
+| **Backend** | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| **System Design** | ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) |
+| **Data & Cloud** | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
+| **Frontend** | ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |
 
 </div>
 
