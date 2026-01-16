@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Abanoub Saweris 👋</h1>
 
 <h3 align="center">
-  🚀 Distributed Systems Engineer | 🟢 Pupil @Codeforces | ☁️ .NET Backend Specialist
+    🚀 Distributed Systems Engineer | 🔵 Expert @Codeforces | ☁️ .NET Backend Specialist
 </h3>
 
 <p align="center">
