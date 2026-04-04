@@ -1,83 +1,62 @@
-<h1 align="center">Hi there, I'm Abanoub Saweris 👋</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0078D4&height=230&section=header&text=Abanoub%20Saweris&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Specialist%20@Codeforces%20%7C%20Systems%20Thinker&descSize=18&descAlignY=55&descColor=58a6ff" width="100%" />
+</div>
 
-<h3 align="center">
-    🚀 Distributed Systems Engineer | 🔵 Expert @Codeforces | ☁️ .NET Backend Specialist
-</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Architecting+Systems+for+1M%2B+Users+%F0%9F%9A%80;1000%2B+Algorithmic+Problems+Solved+%F0%9F%A7%A9;Building+Scalable+.NET+Backend+Solutions+%E2%9A%99%EF%B8%8F;Specialist+%40Codeforces+%7C+Backend+Mentor+%40IClub+%F0%9F%8E%AF" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/AbanoubPhelopos">
-    <img src="https://img.shields.io/github/followers/AbanoubPhelopos?label=Follow&style=social" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/AbanoubPhelopos?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=0d1117&labelColor=1a1b27" />
   </a>
   <a href="https://linkedin.com/in/abanoub-saweris/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" />
+  </a>
+  <a href="https://codeforces.com/profile/__PoP__">
+    <img src="https://img.shields.io/badge/Codeforces-Specialist-03A89E?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=1a1b27" />
+  </a>
+  <a href="https://leetcode.com/u/Abanoub-Saweris/">
+    <img src="https://img.shields.io/badge/LeetCode-230%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=1a1b27" />
   </a>
   <a href="mailto:abanoub.saweris02@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=AbanoubPhelopos&style=for-the-badge&color=0078D4&labelColor=1a1b27" />
 </p>
 
-<div align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="coding animation" />
-</div>
+<br/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 👨‍💻 Professional Summary
+<br/>
 
-I am a final-year **Computer Science Student** at Ain Shams University (Exp. 2026) with a deep focus on **System Design** and **Distributed Systems**. I architect high-traffic solutions using Clean Architecture and Microservices principles.
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me**
 
-* 🔭 **Current Focus:** Designing scalable, distributed backend systems and optimizing data pipelines.
-* 💼 **Work Experience:**
-    * **Backend Developer at CUBE:** Engineering tournament systems handling **100K+ concurrent participants** and **1M+ users**.
-    * **Data Engineering Intern at ISYS:** Built ELT pipelines using Hadoop/Spark, reducing processing time by 40%.
-    * **Freelance Developer at Dirah:** Built a multi-tenant SaaS for 1,000+ daily users.
-* 🏆 **Achievements:** 3rd Place Winner at Neuronetix Hackathon.
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="320" alt="coding animation" />
 
----
+```yaml
+name: Abanoub Saweris
+location: Cairo, Egypt
+education:
+  university: Ain Shams University
+  degree: B.Sc. Computer Science
+  gpa: 2.9 / 4.0
+  graduation: July 2026
 
-### 🧩 Competitive Programming
+current_role: Software Backend Engineer @ Cube Solutions
+focus:
+  - Distributed Systems Architecture
+  - High-Traffic Backend Engineering
+  - Real-Time Systems (SignalR, WebSockets)
+  - Competitive Programming
 
-I am a highly active competitive programmer. I enjoy solving complex algorithmic problems involved in distributed computing.
-
-<div align="center">
-  
-  <a href="https://codeforces.com/profile/__PoP__">
-    <img src="https://img.shields.io/badge/Codeforces-Pupil%20(Green)-008000?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Rank" />
-  </a>
-
-  <a href="https://leetcode.com/u/Abanoub-Saweris/">
-    <img src="https://img.shields.io/badge/LeetCode-Abanoub--Saweris-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
-  </a>
-
-</div>
-
----
-
-### 💻 Technical Stack
-
-<div align="center">
-
-| **Category** | **Technologies** |
-|:---:|:---|
-| **Backend** | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
-| **System Design** | ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) |
-| **Data & Cloud** | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
-| **Frontend** | ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |
-
-</div>
-
----
-
-### 📂 Key Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **Gamification Engine** | Architected a system for 1M+ users with Redis caching to handle high concurrency. | `.NET` `Redis` `Distributed Systems` |
-| **FOS (Custom OS)** | Engineered a custom OS kernel with priority scheduling and semaphores. | `C` `Assembly` `OS Architecture` |
-| **Cryptography Suite** | Implementation of 12+ encryption algorithms (DES, AES, RSA) with secure key exchange. | `C++` `Security` `Algorithms` |
-
----
-
-<p align="center">
-  <i>"Designing systems that scale, writing code that lasts."</i>
-</p>
+impact:
+  - "1M+ users served"
+  - "100K+ concurrent participants handled"
+  - "1000+ algorithmic problems solved"
+  - "20+ mentees guided in backend engineering"
+🧩 Competitive Programming<table align="center" width="100%"><tr><td width="50%" valign="top"><h3 align="center">🏅 Stats at a Glance</h3><ul><li>🔵 <b>Codeforces:</b> Specialist Rank — 600+ Problems</li><li>🟡 <b>LeetCode:</b> 230+ Problems Solved</li><li>🔴 <b>VJudge:</b> 200+ Problems Solved</li><li>📊 <b>Total:</b> 1,000+ Problems Across Platforms</li></ul><p align="center"><a href="https://www.google.com/search?q=https://codeforces.com/profile/PoP"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Codeforces-PoP-00A699?style=flat-square&logo=codeforces&logoColor=white"/></a><a href="https://leetcode.com/u/Abanoub-Saweris/"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LeetCode-ABANOUB--SAWERIS-FFA116%3Fstyle%3Dflat-square%26logo%3Dleetcode%26logoColor%3Dblack"/></a></p></td><td width="50%" valign="top"><h3 align="center">🎯 Strengths</h3><ul><li>📌 Data Structures & Algorithms</li><li>📌 Graph Theory & Shortest Paths</li><li>📌 Dynamic Programming</li><li>📌 Number Theory & Combinatorics</li><li>📌 Greedy & Constructive Algorithms</li><li>📌 Binary Search & Two Pointers</li></ul></td></tr></table>🏆 Achievements & Leadership🎓 BACKEND MENTOR🥉 3RD PLACE📜 DEPI GRADUATE📈 ARAB FINTECHIClubNeuronetix Hackathon.NET DeveloperCore FoundationMentored 20+ peers across 10 sessions on ASP.NET, EF, LINQ & SOLIDBuilt a Twitter clone under tight deadlines — 3rd out of 25 teamsIntensive 6-month backend engineering program in C# & .NETCompleted FinTech training in digital finance ecosystems📊 GitHub Analytics<p align="center"><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DAbanoubPhelopos%26show_icons%3Dtrue%26theme%3Dreact%26hide_border%3Dtrue%26bg_color%3D0d1117%26title_color%3D58a6ff%26icon_color%3D58a6ff%26text_color%3Dc9d1d9" alt="Abanoub's GitHub Stats" width="48%" /><img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DAbanoubPhelopos%26theme%3Dreact%26hide_border%3Dtrue%26background%3D0d1117%26ring%3D58a6ff%26fire%3D58a6ff%26currStreakNum%3Dc9d1d9%26sideNums%3Dc9d1d9%26currStreakLabel%3D58a6ff%26sideLabels%3D58a6ff%26dates%3Dc9d1d9" alt="Abanoub's Streak Stats" width="48%" /></p><p align="center"><img src="https://www.google.com/search?q=https://github-profile-summary-cards.vercel.app/api/cards/profile-details%3Fusername%3DAbanoubPhelopos%26theme%3Dreact%26bg_color%3D0d1117%26title_color%3D58a6ff%26text_color%3Dc9d1d9" alt="GitHub Contributions Profile" width="100%"/></p><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+```
