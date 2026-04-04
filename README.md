@@ -1,12 +1,11 @@
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=140&lines=Architecting+Systems+for+1M%2B+Users+%F0%9F%9A%80;1000%2B+Algorithmic+Problems+Solved+%F0%9F%A7%A9;Building+Scalable+.NET+Backend+Solutions+%E2%9A%99%EF%B8%8F;Specialist+%40Codeforces+%7C+Backend+Mentor+%40IClub+%F0%9F%8E%AF" alt="Typing SVG" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0078D4&height=230&section=header&text=Abanoub%20Saweris&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Specialist%20@Codeforces%20%7C%20Systems%20Thinker&descSize=18&descAlignY=55&descColor=58a6ff" width="100%" />
+</div>
+
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Architecting+Systems+for+1M%2B+Users+%F0%9F%9A%80;1000%2B+Algorithmic+Problems+Solved+%F0%9F%A7%A9;Building+Scalable+.NET+Backend+Solutions+%E2%9A%99%EF%B8%8F;Specialist+%40Codeforces+%7C+Backend+Mentor+%40IClub+%F0%9F%8E%AF" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=140&lines=Architecting+Systems+for+1M%2B+Users+%F0%9F%9A%80;1000%2B+Algorithmic+Problems+Solved+%F0%9F%A7%A9;Building+Scalable+.NET+Backend+Solutions+%E2%9A%99%EF%B8%8F;Specialist+%40Codeforces+%7C+Backend+Mentor+%40IClub+%F0%9F%8E%AF" alt="Typing SVG" />
   </a>
 </p>
 
