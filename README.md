@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=140&lines=Architecting+Systems+for+1M%2B+Users+%F0%9F%9A%80;1000%2B+Algorithmic+Problems+Solved+%F0%9F%A7%A9;Building+Scalable+.NET+Backend+Solutions+%E2%9A%99%EF%B8%8F;Specialist+%40Codeforces+%7C+Backend+Mentor+%40IClub+%F0%9F%8E%AF" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=140&lines=Architecting+Systems+for+1M%2B+Users+%F0%9F%9A%80;1000%2B+Algorithmic+Problems+Solved+%F0%9F%A7%A9;Building+Scalable+.NET+Backend+Solutions+%E2%9A%99%EF%B8%8F;Specialist+%40Codeforces+%7C+Backend+Mentor+%40IClub+%F0%9F%8E%AF" alt="Typing SVG" />
   </a>
 </p>
 
