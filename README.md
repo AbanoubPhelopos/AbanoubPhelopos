@@ -18,7 +18,7 @@ I am a Software Engineer specializing in high-performance architectures, event-d
 
 ```
 📍 Cairo, Egypt
-🎓 B.Sc. Computer Science @ Ain Shams University (GPA: 3.0) — Expected July 2026
+🎓 B.Sc. Computer Science @ Ain Shams University
 🏆 Codeforces Specialist · 1,000+ problems solved
 👨‍🏫 Mentored 20+ software engineering students @ IClub
 ```
