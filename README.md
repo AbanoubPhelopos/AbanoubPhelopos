@@ -206,24 +206,6 @@ pie title 1,000+ Algorithmic Problems Solved
 
 <br/>
 
----
-
-## 🎓 Education & Certifications
-
-```mermaid
-timeline
-    title Educational Achievements
-    2024 : DEPI Program Grad — MCIT Egypt
-         : Intensive 6-month backend development track (C#, SQL Server, EF Core, RESTful API design)
-    Nov 2024 - Mar 2025 : Backend Mentor @ IClub
-                        : Guided 20+ software engineering students on ASP.NET Web APIs, EF Core, and SOLID
-    Expected July 2026 : B.Sc. in Computer Science
-                       : Ain Shams University — Cumulative GPA 3.0 / 4.0
-```
-
-<br/>
-
----
 
 ## 📊 GitHub Contributions
 
