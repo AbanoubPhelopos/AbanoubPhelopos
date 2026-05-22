@@ -189,36 +189,6 @@ A fully modular OS Kernel written from scratch to learn micro-level system opera
 
 <br/>
 
----
-
-## 🏆 Competitive Programming
-
-```mermaid
-pie title 1,000+ Algorithmic Problems Solved
-    "Codeforces (🟦 Specialist)" : 600
-    "LeetCode" : 230
-    "VJudge" : 200
-```
-
-- **Codeforces:** 🟦 **Specialist** (Peak Rating 1400+) | Handle: [`__PoP__`](https://codeforces.com/profile/__PoP__)
-- **LeetCode:** Solved **230+** algorithmic challenges | Handle: [`Abanoub-Saweris`](https://leetcode.com/u/Abanoub-Saweris)
-- **Core Strengths:** `Graph Theory` · `Dynamic Programming` · `Number Theory` · `Segment Trees` · `Greedy & Constructive` · `Binary Search`
-
-<br/>
-
-
-## 📊 GitHub Contributions
-
-
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=AbanoubPhelopos&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
-    <img src="https://streak-stats.demolab.com?user=AbanoubPhelopos&theme=default&hide_border=true" width="55%" alt="GitHub Streak" />
-  </picture>
-</p>
-
-<br/>
 
 <h3 align="center">Let's build something that scales 🚀</h3>
 
