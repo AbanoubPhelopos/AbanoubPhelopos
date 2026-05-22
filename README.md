@@ -1,23 +1,33 @@
 <h1 align="center">Abanoub Saweris</h1>
 
 <p align="center">
-  <b>Backend Engineer &middot; Distributed Systems &middot; Codeforces Specialist</b><br/>
-  <i>Cairo, Egypt &middot; Cube Software Solutions (Remote, Jordan)</i>
+  <b>Backend Engineer &nbsp;·&nbsp; Distributed Systems &nbsp;·&nbsp; Codeforces Specialist</b><br/>
+  <sub>Cairo, Egypt &nbsp;·&nbsp; Cube Software Solutions (Remote, Jordan)</sub>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/abanoub-saweris"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://codeforces.com/profile/__PoP__"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
-  <a href="https://leetcode.com/u/Abanoub-Saweris"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-  <a href="mailto:abanoub.saweris02@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://github.com/AbanoubPhelopos"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://linkedin.com/in/abanoub-saweris">
+    <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>&nbsp;
+  <a href="https://codeforces.com/profile/__PoP__">
+    <img src="https://img.shields.io/static/v1?label=&message=Codeforces&color=1F8ACB&logo=codeforces&logoColor=white&style=for-the-badge" />
+  </a>&nbsp;
+  <a href="https://leetcode.com/u/Abanoub-Saweris">
+    <img src="https://img.shields.io/static/v1?label=&message=LeetCode&color=FFA116&logo=leetcode&logoColor=black&style=for-the-badge" />
+  </a>&nbsp;
+  <a href="mailto:abanoub.saweris02@gmail.com">
+    <img src="https://img.shields.io/static/v1?label=&message=Gmail&color=EA4335&logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>&nbsp;
+  <a href="https://github.com/AbanoubPhelopos">
+    <img src="https://img.shields.io/static/v1?label=&message=GitHub&color=181717&logo=github&logoColor=white&style=for-the-badge" />
+  </a>
 </p>
 
 ---
 
 ## About
 
-Backend engineer building systems that survive real traffic. Currently at **Cube Software Solutions** delivering platforms that serve **1M+ users** with **100K+ concurrent participants** across e-commerce, ride-hailing, and gaming verticals. I bring competitive programming precision to production system design — 1,000+ algorithmic problems solved, Codeforces Specialist rank.
+Backend engineer building systems that survive real traffic. Currently at **Cube Software Solutions** delivering platforms serving **1M+ users** and **100K+ concurrent participants** across e-commerce, ride-hailing, and gaming verticals. I bring competitive programming precision to production system design — 1,000+ algorithmic problems solved, Codeforces Specialist rank.
 
 ```text
 Role       ->  Software Backend Engineer @ Cube Software Solutions (Remote, Jordan)
@@ -32,39 +42,35 @@ Mentorship ->  20+ engineers guided across 10 sessions @ IClub
 
 **Languages**
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=dotnet&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,cpp,python,typescript,go" />
+</p>
 
 **Frameworks & Libraries**
 
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=grpc&logoColor=white)
-![MediatR](https://img.shields.io/badge/MediatR-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,django,graphql" />
+</p>
+
+> ASP.NET Core · EF Core · SignalR · gRPC · MediatR · MassTransit · Wolverine · Ocelot · LINQ
 
 **Data & Messaging**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![Dapper](https://img.shields.io/badge/Dapper-1d1d1d?style=flat-square&logo=dotnet&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,rabbitmq,mysql" />
+</p>
+
+> PostgreSQL · SQL Server · MongoDB · Redis · RabbitMQ · Dapper
 
 **DevOps & Observability**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,nginx,prometheus,grafana,linux" />
+</p>
+
+**Architecture Patterns**
+
+> Microservices · Clean Architecture · Vertical Slice · CQRS · Event-Driven · Saga / Outbox · OAuth2 / OIDC
 
 ---
 
@@ -74,60 +80,52 @@ Mentorship ->  20+ engineers guided across 10 sessions @ IClub
 `Sept 2025 – Present` · Remote, Jordan
 
 **Og Mart** — High-Traffic E-Commerce Platform
-- Engineered an ASP.NET Core backend with Redis distributed caching — sub-500ms responses under peak traffic
-- Implemented RabbitMQ async event buses with publisher-confirms for 99% reliable order/inventory message delivery
-- Built payment webhooks with distributed idempotency controls, granular RBAC, and thread-safe audit logging
+- ASP.NET Core backend with Redis distributed caching — **sub-500ms** response times at peak traffic
+- RabbitMQ async event buses with publisher-confirms: **99%** reliable order and inventory message delivery
+- Payment webhooks with distributed idempotency controls, granular RBAC, and thread-safe audit logging
 
-**T7ady El 30** — Real-Time Tournament Platform · [Play Store](https://play.google.com/store/apps/details?id=com.dominate.thirtySecondsChallenge)
-- Designed a tournament bracket algorithm scaling to **1M+ registered users** and **100K+ concurrent participants**
-- Orchestrated real-time game state via persistent SignalR WebSockets + Hangfire background jobs + FCM push notifications
-- Built a subscription-aware challenge engine dynamically adjusting question logic per brand tier (Free / Basic / Premium)
+**T7ady El 30** — Real-Time Tournament Platform · [Play Store ↗](https://play.google.com/store/apps/details?id=com.dominate.thirtySecondsChallenge)
+- Hierarchical bracket algorithm scaling to **1M+ registered users** and **100K+ concurrent participants**
+- Real-time game state via persistent SignalR WebSockets + Hangfire background jobs + FCM push notifications
+- Subscription-aware challenge engine adjusting question logic per brand tier (Free / Basic / Premium)
 
 **Taxi Daif** — Distributed Ride-Hailing Service
-- Developed a financial wallet and settlement ledger with Clean Architecture, transactional rollbacks, and fraud mitigation
-- Integrated SignalR for live driver/rider location broadcasts and a flexible coupon engine for targeted user segments
+- Financial wallet and settlement ledger with Clean Architecture, transactional rollbacks, and fraud mitigation
+- SignalR live driver/rider location broadcasts + flexible coupon engine for targeted user segments
 
 ---
 
 ### Full Stack Software Engineer — Dirah
 `Feb 2025 – Jul 2025` · Freelance, Saudi Arabia
 
-- Delivered a multi-tenant SaaS survey platform serving **1,000+ daily active users** with real-time analytics via SignalR
-- Secured with .NET Identity, a 5-layer RBAC system, and DAC capability lists enforcing strict tenant isolation
+- Multi-tenant SaaS survey platform — **1,000+ daily active users**, real-time analytics via SignalR
+- 5-layer RBAC + DAC capability lists enforcing strict tenant data isolation across all API endpoints
 
 ---
 
 ### Data Engineer Intern — Intelligent Systems (ISYS)
 `Aug 2025 – Sept 2025` · Smart Village, Cairo
 
-- Designed automated ELT pipelines with Hadoop and Apache Spark, reducing batch processing time significantly
+- Automated ELT pipelines with Hadoop and Apache Spark, reducing batch processing time significantly
 
 ---
 
 ## Projects
 
 ### [Event Management System](https://github.com/6-Brain-Cells/event-management-cloud) · Cloud & DevOps Course
-- 4-service FastAPI platform behind Nginx gateway with rate limiting, correlation-ID tracking, and JWT + RBAC
-- RabbitMQ Topic Exchanges with Dead Letter Queues and HTTP circuit breakers for resilient async messaging
-- Kubernetes Helm + ArgoCD GitOps deployment with Prometheus, Grafana, and Loki observability stack
+4-service FastAPI platform · Nginx gateway (rate limiting + correlation-ID + JWT/RBAC) · RabbitMQ Topic Exchanges with Dead Letter Queues · Kubernetes Helm + ArgoCD GitOps · Prometheus + Grafana + Loki observability
 
 ### [TailorCV](https://github.com/AbanoubPhelopos/TailorCV) · AI-Powered CV Platform
-- Modular Monolith in .NET 10 with Vertical Slice Architecture + CQRS, per-module PostgreSQL schemas
-- Wolverine + RabbitMQ for async sagas/outbox pattern · gRPC for synchronous retrieval calls
-- OpenAI API resume parsing · Playwright headless job scraping · Puppeteer HTML-to-PDF rendering
+Modular Monolith in .NET 10 · Vertical Slice Architecture + CQRS · per-module PostgreSQL schemas · Wolverine + RabbitMQ sagas/outbox · gRPC sync calls · OpenAI resume parsing · Playwright scraping · Puppeteer PDF rendering
 
-### [E-Commerce Microservices Platform](https://github.com/AbanoubPhelopos/E-Commerce)
-- 6 ASP.NET Core 10 microservices behind Ocelot API gateway with Clean Architecture + CQRS via MediatR
-- Polyglot persistence: MongoDB · Redis · PostgreSQL + Dapper · SQL Server + EF Core
-- Saga-based checkout flow via MassTransit + RabbitMQ → Stripe · Duende IdentityServer (OAuth2/OIDC)
+### [E-Commerce Microservices](https://github.com/AbanoubPhelopos/E-Commerce)
+6 ASP.NET Core 10 services · Ocelot API gateway · Clean Architecture + CQRS/MediatR · polyglot persistence (MongoDB · Redis · PostgreSQL · SQL Server) · MassTransit + RabbitMQ → Stripe saga checkout · Duende IdentityServer (OAuth2/OIDC)
 
 ### [Wsnly](https://github.com/AbanoubPhelopos/Wsnly-Backend) · Graduation Project — AI Transit Platform
-- Django + Python + C++ microservices orchestrated over gRPC
-- NLP pipeline for natural language location extraction + custom C++ A\* routing engine over GTFS data in **<15ms**
+Django + Python + C++ microservices over gRPC · NLP pipeline for natural language location extraction · custom C++ A\* routing engine over GTFS data in **< 15 ms**
 
 ### [FOS — FCIS Operating System](https://github.com/fcisProjects/FOS)
-- Kernel with dynamic memory allocation (First-Fit / Best-Fit), virtual memory paging, Nth Chance Clock algorithm
-- Priority Round-Robin scheduler with SpinLocks, Sleep Locks, and Semaphores for safe IPC
+Kernel with dynamic memory allocation (First-Fit / Best-Fit) · virtual memory paging · Nth Chance Clock algorithm · Priority Round-Robin scheduler · SpinLocks / Sleep Locks / Semaphores
 
 ---
 
@@ -150,7 +148,7 @@ Mentorship ->  20+ engineers guided across 10 sessions @ IClub
 |:---|:---|
 | 🏅 **Codeforces Specialist** | Peak 1400+ rating |
 | 🎓 **Backend Mentor @ IClub** | 10 sessions · 20+ engineers mentored in ASP.NET Core, EF, SOLID |
-| 🥉 **3rd Place — Neuronetix Hackathon** | Twitter clone built under deadline, 25 teams competing |
+| 🥉 **3rd Place — Neuronetix Hackathon** | Twitter clone built under deadline, out of 25 teams |
 | 📜 **DEPI Graduate — .NET Track** | 6-month intensive backend programme, MCIT Egypt |
 
 ---
@@ -169,10 +167,10 @@ Mentorship ->  20+ engineers guided across 10 sessions @ IClub
 ---
 
 <p align="center">
-  <a href="mailto:abanoub.saweris02@gmail.com">abanoub.saweris02@gmail.com</a> &middot;
-  <a href="https://linkedin.com/in/abanoub-saweris">LinkedIn</a> &middot;
-  <a href="https://codeforces.com/profile/__PoP__">Codeforces</a> &middot;
+  <a href="mailto:abanoub.saweris02@gmail.com">abanoub.saweris02@gmail.com</a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/abanoub-saweris">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://codeforces.com/profile/__PoP__">Codeforces</a> &nbsp;·&nbsp;
   Cairo, Egypt
 </p>
 
-<p align="center"><sub>1M+ users served &middot; 1,000+ problems solved &middot; Still shipping 🚀</sub></p>
+<p align="center"><sub>1M+ users served &nbsp;·&nbsp; 1,000+ problems solved &nbsp;·&nbsp; Still shipping 🚀</sub></p>
