@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="assets/hero_banner.png" alt="Abanoub Saweris — Building Distributed Systems That Scale" width="100%" />
-</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/abanoub-saweris"><code>🔗 LinkedIn</code></a> &nbsp;&nbsp;
