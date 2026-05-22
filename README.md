@@ -1,141 +1,178 @@
-# Abanoub Saweris · Backend Engineer
+<h1 align="center">Abanoub Saweris</h1>
 
-> **Specialist @ Codeforces** · **Backend Mentor @ IClub** · **Systems Thinker**
+<p align="center">
+  <b>Backend Engineer &middot; Distributed Systems &middot; Codeforces Specialist</b><br/>
+  <i>Cairo, Egypt &middot; Cube Software Solutions (Remote, Jordan)</i>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abanoub%20Saweris-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abanoub-saweris/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Specialist%20%7C%20__PoP__-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/__PoP__)
-[![LeetCode](https://img.shields.io/badge/LeetCode-230%2B%20Solved-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Abanoub-Saweris/)
-[![Gmail](https://img.shields.io/badge/Gmail-abanoub.saweris02%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abanoub.saweris02@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=AbanoubPhelopos&style=flat-square&color=0078D4)](https://github.com/AbanoubPhelopos)
+<p align="center">
+  <a href="https://linkedin.com/in/abanoub-saweris"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://codeforces.com/profile/__PoP__"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
+  <a href="https://leetcode.com/u/Abanoub-Saweris"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="mailto:abanoub.saweris02@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://github.com/AbanoubPhelopos"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
 ---
 
-## Who I Am
+## About
 
-Backend engineer at **Cube Solutions**, architecting systems that scale to **1M+ users** and handle **100K+ concurrent participants**. I bridge competitive programming rigor with production-grade engineering — every system I build is designed to survive real traffic, not just demo conditions.
-
-Currently completing my **B.Sc. in Computer Science** at Ain Shams University (graduating July 2026).
+Backend engineer building systems that survive real traffic. Currently at **Cube Software Solutions** delivering platforms that serve **1M+ users** with **100K+ concurrent participants** across e-commerce, ride-hailing, and gaming verticals. I bring competitive programming precision to production system design — 1,000+ algorithmic problems solved, Codeforces Specialist rank.
 
 ```text
-🏢  Backend Engineer       →  Cube Solutions
-🎓  B.Sc. Computer Science →  Ain Shams University (GPA: 2.9 / 4.0)
-🏅  Codeforces Rank        →  Specialist (~1800 rating)
-🧠  Problems Solved        →  1,000+ across CF · LC · VJudge
-👥  Mentorship             →  20+ engineers mentored @ IClub
-📍  Location               →  Cairo, Egypt
+Role       ->  Software Backend Engineer @ Cube Software Solutions (Remote, Jordan)
+Education  ->  B.Sc. Computer Science, Ain Shams University — graduating July 2026
+CP Rank    ->  Codeforces Specialist | 600+ CF · 230+ LC · 200+ VJudge = 1,000+ total
+Mentorship ->  20+ engineers guided across 10 sessions @ IClub
 ```
-
----
-
-## What I Build
-
-**Scalable Distributed Systems** — event-driven architectures, microservices, and message queues that don't buckle under load.
-
-**Real-Time Backends** — live systems using **SignalR** and **WebSockets** where latency is a product requirement, not an afterthought.
-
-**High-Traffic APIs** — RESTful and clean-architecture services optimized for throughput, designed in **.NET / ASP.NET Core**.
 
 ---
 
 ## Tech Stack
 
-**Core Languages**
+**Languages**
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=dotnet&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Backend & Frameworks**
+**Frameworks & Libraries**
 
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=grpc&logoColor=white)
+![MediatR](https://img.shields.io/badge/MediatR-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 
 **Data & Messaging**
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Dapper](https://img.shields.io/badge/Dapper-1d1d1d?style=flat-square&logo=dotnet&logoColor=white)
 
-**Infrastructure & DevOps**
+**DevOps & Observability**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
-**Engineering Principles**
+---
 
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-0d1117?style=flat-square&logoColor=white)
-![SOLID](https://img.shields.io/badge/SOLID_Principles-0d1117?style=flat-square&logoColor=white)
-![CQRS](https://img.shields.io/badge/CQRS_%2B_MediatR-0d1117?style=flat-square&logoColor=white)
-![DDD](https://img.shields.io/badge/Domain_Driven_Design-0d1117?style=flat-square&logoColor=white)
+## Professional Experience
+
+### Software Backend Engineer — Cube Software Solutions
+`Sept 2025 – Present` · Remote, Jordan
+
+**Og Mart** — High-Traffic E-Commerce Platform
+- Engineered an ASP.NET Core backend with Redis distributed caching — sub-500ms responses under peak traffic
+- Implemented RabbitMQ async event buses with publisher-confirms for 99% reliable order/inventory message delivery
+- Built payment webhooks with distributed idempotency controls, granular RBAC, and thread-safe audit logging
+
+**T7ady El 30** — Real-Time Tournament Platform · [Play Store](https://play.google.com/store/apps/details?id=com.dominate.thirtySecondsChallenge)
+- Designed a tournament bracket algorithm scaling to **1M+ registered users** and **100K+ concurrent participants**
+- Orchestrated real-time game state via persistent SignalR WebSockets + Hangfire background jobs + FCM push notifications
+- Built a subscription-aware challenge engine dynamically adjusting question logic per brand tier (Free / Basic / Premium)
+
+**Taxi Daif** — Distributed Ride-Hailing Service
+- Developed a financial wallet and settlement ledger with Clean Architecture, transactional rollbacks, and fraud mitigation
+- Integrated SignalR for live driver/rider location broadcasts and a flexible coupon engine for targeted user segments
+
+---
+
+### Full Stack Software Engineer — Dirah
+`Feb 2025 – Jul 2025` · Freelance, Saudi Arabia
+
+- Delivered a multi-tenant SaaS survey platform serving **1,000+ daily active users** with real-time analytics via SignalR
+- Secured with .NET Identity, a 5-layer RBAC system, and DAC capability lists enforcing strict tenant isolation
+
+---
+
+### Data Engineer Intern — Intelligent Systems (ISYS)
+`Aug 2025 – Sept 2025` · Smart Village, Cairo
+
+- Designed automated ELT pipelines with Hadoop and Apache Spark, reducing batch processing time significantly
+
+---
+
+## Projects
+
+### [Event Management System](https://github.com/6-Brain-Cells/event-management-cloud) · Cloud & DevOps Course
+- 4-service FastAPI platform behind Nginx gateway with rate limiting, correlation-ID tracking, and JWT + RBAC
+- RabbitMQ Topic Exchanges with Dead Letter Queues and HTTP circuit breakers for resilient async messaging
+- Kubernetes Helm + ArgoCD GitOps deployment with Prometheus, Grafana, and Loki observability stack
+
+### [TailorCV](https://github.com/AbanoubPhelopos/TailorCV) · AI-Powered CV Platform
+- Modular Monolith in .NET 10 with Vertical Slice Architecture + CQRS, per-module PostgreSQL schemas
+- Wolverine + RabbitMQ for async sagas/outbox pattern · gRPC for synchronous retrieval calls
+- OpenAI API resume parsing · Playwright headless job scraping · Puppeteer HTML-to-PDF rendering
+
+### [E-Commerce Microservices Platform](https://github.com/AbanoubPhelopos/E-Commerce)
+- 6 ASP.NET Core 10 microservices behind Ocelot API gateway with Clean Architecture + CQRS via MediatR
+- Polyglot persistence: MongoDB · Redis · PostgreSQL + Dapper · SQL Server + EF Core
+- Saga-based checkout flow via MassTransit + RabbitMQ → Stripe · Duende IdentityServer (OAuth2/OIDC)
+
+### [Wsnly](https://github.com/AbanoubPhelopos/Wsnly-Backend) · Graduation Project — AI Transit Platform
+- Django + Python + C++ microservices orchestrated over gRPC
+- NLP pipeline for natural language location extraction + custom C++ A\* routing engine over GTFS data in **<15ms**
+
+### [FOS — FCIS Operating System](https://github.com/fcisProjects/FOS)
+- Kernel with dynamic memory allocation (First-Fit / Best-Fit), virtual memory paging, Nth Chance Clock algorithm
+- Priority Round-Robin scheduler with SpinLocks, Sleep Locks, and Semaphores for safe IPC
 
 ---
 
 ## Competitive Programming
 
-| Platform | Rank / Status | Problems Solved |
+| Platform | Handle | Solved |
 |:---|:---|:---|
-| 🔵 Codeforces | **Specialist** (`__PoP__`) | 600+ |
-| 🟡 LeetCode | Active | 230+ |
-| 🔴 VJudge | Active | 200+ |
+| Codeforces — **Specialist** | [`__PoP__`](https://codeforces.com/profile/__PoP__) | 600+ |
+| LeetCode | [`Abanoub-Saweris`](https://leetcode.com/u/Abanoub-Saweris) | 230+ |
+| VJudge | Active | 200+ |
 | **Total** | | **1,000+** |
 
-**Algorithm Specializations**
-
-- Graph Theory — BFS/DFS, Dijkstra, Bellman-Ford, Floyd-Warshall, MST
-- Dynamic Programming — Knapsack, LCS, bitmask DP, tree DP
-- Number Theory — GCD/LCM, modular arithmetic, prime sieving, fast exponentiation
-- Data Structures — Segment trees, Fenwick trees, DSU, sparse tables
-- Greedy & Constructive — interval scheduling, exchange arguments
-- Binary Search & Two Pointers — on answers, sorted structures, sliding window
+**Specializations:** Graph Theory (Dijkstra · Bellman-Ford · MST) · Dynamic Programming (bitmask · tree DP) · Number Theory · Segment Trees · Greedy & Constructive · Binary Search & Two Pointers
 
 ---
 
-## Highlights
+## Achievements
 
-**🥉 3rd Place — Neuronetix Hackathon** *(out of 25 teams)*
-Built a full Twitter clone under pressure. Shipped a working distributed system with real-time features in a hackathon window.
-
-**🎓 Backend Mentor — IClub**
-Ran 10 structured mentorship sessions covering ASP.NET Core, Entity Framework, LINQ, and SOLID principles. Guided 20+ engineers from fundamentals to production patterns.
-
-**📜 DEPI Graduate — .NET Developer Track**
-Completed an intensive 6-month backend engineering program in C# and .NET ecosystem.
-
-**📈 Arab Fintech Foundation**
-Trained in digital finance ecosystems and FinTech infrastructure fundamentals.
+| | |
+|:---|:---|
+| 🏅 **Codeforces Specialist** | Peak 1400+ rating |
+| 🎓 **Backend Mentor @ IClub** | 10 sessions · 20+ engineers mentored in ASP.NET Core, EF, SOLID |
+| 🥉 **3rd Place — Neuronetix Hackathon** | Twitter clone built under deadline, 25 teams competing |
+| 📜 **DEPI Graduate — .NET Track** | 6-month intensive backend programme, MCIT Egypt |
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbanoubPhelopos&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github&include_all_commits=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbanoubPhelopos&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" width="40%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbanoubPhelopos&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbanoubPhelopos&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" width="40%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbanoubPhelopos&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9" width="55%" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=AbanoubPhelopos&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="55%" />
 </p>
 
 ---
 
-## Let's Connect
-
-I'm open to backend engineering roles, system design discussions, and competitive programming collaboration.
-
-**Email:** [abanoub.saweris02@gmail.com](mailto:abanoub.saweris02@gmail.com)  
-**LinkedIn:** [linkedin.com/in/abanoub-saweris](https://linkedin.com/in/abanoub-saweris/)  
-**Codeforces:** [codeforces.com/profile/__PoP__](https://codeforces.com/profile/__PoP__)  
-**LeetCode:** [leetcode.com/u/Abanoub-Saweris](https://leetcode.com/u/Abanoub-Saweris/)
-
----
-
 <p align="center">
-  <sub>Built systems. Solved problems. Still going. 🚀</sub>
+  <a href="mailto:abanoub.saweris02@gmail.com">abanoub.saweris02@gmail.com</a> &middot;
+  <a href="https://linkedin.com/in/abanoub-saweris">LinkedIn</a> &middot;
+  <a href="https://codeforces.com/profile/__PoP__">Codeforces</a> &middot;
+  Cairo, Egypt
 </p>
+
+<p align="center"><sub>1M+ users served &middot; 1,000+ problems solved &middot; Still shipping 🚀</sub></p>
