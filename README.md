@@ -45,21 +45,24 @@ I am a Software Engineer specializing in high-performance architectures, event-d
 ## 🔩 Open Source Projects
 
 ### 🛍️ [E-Commerce Microservices](https://github.com/AbanoubPhelopos/E-Commerce)
-A resilient, production-grade distributed platform featuring 6 decoupled microservices.
+A production-grade distributed e-commerce platform featuring 10+ decoupled microservices with real-time analytics.
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h4>⚙️ Architecture & Features</h4>
       <ul>
-        <li><b>6 ASP.NET Core 10</b> microservices orchestrated behind <b>Nginx</b> & <b>Ocelot Gateway</b> using Clean Architecture & CQRS via MediatR.</li>
-        <li><b>Polyglot Persistence:</b> MongoDB (Catalog), Redis (Basket), PostgreSQL + Dapper (Discount), SQL Server + EF Core (Ordering).</li>
+        <li><b>10 ASP.NET Core 10</b> microservices orchestrated behind <b>Nginx</b> & <b>Ocelot Gateway</b> using Clean Architecture & CQRS via MediatR.</li>
+        <li><b>Polyglot Persistence:</b> MongoDB (Catalog), Redis (Basket), PostgreSQL + Dapper (Discount), SQL Server + EF Core (Ordering, Payment, Notification, UserManagement, Admin).</li>
+        <li><b>Real-time Analytics:</b> Admin Dashboard consuming <b>Apache Kafka</b> events with live updates via <b>SignalR</b>.</li>
+        <li><b>AI Shopping Assistant:</b> Conversational AI powered by <b>MiniMax M2.7</b> with semantic product search using embeddings.</li>
         <li><b>Async Saga Flow:</b> Robust async checkout orchestrations via <b>MassTransit + RabbitMQ</b> integrated with <b>Stripe Payments</b>.</li>
         <li><b>Security:</b> Enforced by Duende IdentityServer (OAuth2 / OIDC) and Redis-backed custom idempotency middlewares.</li>
+        <li><b>Event-Driven Architecture:</b> RabbitMQ for service-to-service communication, Kafka for analytics event streaming.</li>
       </ul>
       <br/>
       <h4>🛠️ Tools & Stack</h4>
-      <code>C#</code> · <code>ASP.NET Core</code> · <code>Ocelot</code> · <code>MassTransit</code> · <code>RabbitMQ</code> · <code>Redis</code> · <code>PostgreSQL</code> · <code>SQL Server</code> · <code>MongoDB</code> · <code>Duende IdentityServer</code> · <code>gRPC</code>
+      <code>C#</code> · <code>ASP.NET Core 10</code> · <code>SignalR</code> · <code>Confluent.Kafka</code> · <code>MassTransit</code> · <code>RabbitMQ</code> · <code>Redis</code> · <code>PostgreSQL</code> · <code>SQL Server</code> · <code>MongoDB</code> · <code>Duende IdentityServer</code> · <code>gRPC</code> · <code>MiniMax AI</code> · <code>SendGrid</code>
     </td>
     <td width="50%" valign="center">
       <img src="assets/ecommerce_mockup.png" alt="E-Commerce Analytics" width="100%" style="border-radius: 8px;" />
@@ -70,30 +73,50 @@ A resilient, production-grade distributed platform featuring 6 decoupled microse
 ```mermaid
 flowchart TD
     subgraph Gateway["🌐 API Gateway"]
-        GW[Nginx + Ocelot]
+        GW[Nginx + Ocelot<br/>:44344]
     end
     subgraph Services["🔧 Microservices"]
-        CAT[📦 Catalog<br/>MongoDB]
-        BAS[🛒 Basket<br/>Redis]
-        DIS[🏷️ Discount<br/>PostgreSQL + Dapper]
-        ORD[📋 Ordering<br/>SQL Server + EF Core]
-        PAY[💳 Payment<br/>Stripe]
+        CAT[📦 Catalog<br/>MongoDB :8080]
+        BAS[🛒 Basket<br/>Redis :8081]
+        DIS[🏷️ Discount<br/>PostgreSQL :8082]
+        ORD[📋 Ordering<br/>SQL Server :8083]
+        PAY[💳 Payment<br/>Stripe :8084]
+        USR[👥 UserManagement<br/>SQL Server :8086]
+        NOT[📧 Notification<br/>SendGrid :8087]
+        AST[🤖 Assistant<br/>MiniMax AI :8088]
+        ADM[📊 Admin Dashboard<br/>Kafka + SignalR :8089]
     end
-    subgraph Infra["⚙️ Infrastructure Services"]
-        MQ[RabbitMQ]
-        IS[Duende IdentityServer]
-        RD[Redis Idempotency]
+    subgraph Infra["⚙️ Infrastructure"]
+        MQ[🐰 RabbitMQ]
+        IS[🔐 IdentityServer<br/>:9001]
+        RD[🔴 Redis Idempotency]
+        KAF[🟠 Kafka]
     end
 
     GW --> CAT
     GW --> BAS
     GW --> ORD
     GW --> PAY
+    GW --> USR
+    GW --> NOT
+    GW --> AST
+    GW --> ADM
+    
     BAS -->|MassTransit Saga| MQ
     MQ --> ORD
     ORD --> MQ
     MQ --> PAY
+    MQ --> NOT
+    MQ --> AST
+    
+    ADM --> KAF
+    KAF -.->|Events| ADM
+    ADM -.->|SignalR| GW
+    
     DIS ---|gRPC| BAS
+    AST -->|Semantic Search| CAT
+    AST -->|Recommendations| CAT
+    
     IS -.->|OAuth2 / OIDC| GW
     RD -.->|Dedup| Services
 
