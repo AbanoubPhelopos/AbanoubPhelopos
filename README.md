@@ -170,26 +170,71 @@ flowchart LR
 <br/>
 
 ### 🗺️ [Wsnly](https://github.com/AbanoubPhelopos/Wsnly-Backend)
-An AI-powered multimodal transit routing and query optimization system.
+An AI-powered multimodal transit routing and query optimization system for Greater Cairo's public transportation network.
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>⚙️ Engine Details</h4>
+      <h4>⚙️ Architecture & Features</h4>
       <ul>
-        <li>Orchestrated polyglot microservices in <b>Django (Python)</b> and a highly optimized <b>C++ engine</b> via ultra-fast <b>gRPC</b> calls.</li>
-        <li>Constructed custom <b>Natural Language Processing (NLP)</b> pipeline to translate descriptive queries into geographical search bounds.</li>
-        <li>Engineered a custom <b>C++ A* pathfinder</b> computing optimized routing networks across GTFS datasets in **under 15ms**.</li>
+        <li><b>Polyglot Microservices:</b> Django API gateway + Python AI service + C++ routing engine orchestrated via <b>gRPC</b>.</li>
+        <li><b>Smart Routing:</b> A* pathfinding over in-memory GTFS graph (~646 stops, ~242K polyline points) computing routes in <15ms.</li>
+        <li><b>NLP Extraction:</b> Custom Arabic/English NER pipeline + Google Maps geocoding for natural language trip queries.</li>
+        <li><b>Multi-Option Routes:</b> Returns optimal, bus-only, metro-only, and microbus alternatives with fare estimation.</li>
+        <li><b>Real-time Analytics:</b> Admin dashboard with route statistics, user growth tracking, and feedback analytics.</li>
+        <li><b>Transit Data API:</b> Nearby stops, line details with ordered stops, and GTFS polylines for map rendering.</li>
       </ul>
       <br/>
       <h4>🛠️ Tools & Stack</h4>
-      <code>C++</code> · <code>Python</code> · <code>Django</code> · <code>gRPC</code> · <code>A* Search Algorithm</code> · <code>NLP</code> · <code>GTFS</code>
+      <code>C++</code> · <code>Python</code> · <code>Django</code> · <code>DRF</code> · <code>gRPC</code> · <code>A* Search</code> · <code>NLP</code> · <code>GTFS</code> · <code>PostgreSQL</code> · <code>Redis</code> · <code>Google Maps API</code>
     </td>
     <td width="50%" valign="center">
       <img src="assets/wsnly_mockup.png" alt="Wsnly Optimization" width="100%" style="border-radius: 8px;" />
     </td>
   </tr>
 </table>
+
+```mermaid
+flowchart TD
+    subgraph Client["🖥️ Client (Web / Mobile)"]
+        WEB[🌐 Browser]
+        MOB[📱 Mobile App]
+    end
+
+    subgraph Gateway["🐍 Wslny API (Django + DRF)"]
+        AUTH[🔐 Auth Layer<br/>JWT + OAuth]
+        ORCH[🎯 Orchestrator<br/>Route Coordination]
+        ADMIN[📊 Admin Panel<br/>Analytics]
+    end
+
+    subgraph Services["⚙️ Application Services"]
+        AI[🤖 AI Service<br/>Python + gRPC<br/>Port 50052]
+        ROUTING[⚡ RoutingEngine<br/>C++ + gRPC<br/>Port 50051]
+    end
+
+    subgraph Infra["📦 Infrastructure"]
+        PG[("🗄️ PostgreSQL<br/>Port 5432")]
+        REDIS[("📦 Redis<br/>Port 6379")]
+    end
+
+    WEB & MOB -->|"HTTP/JSON<br/>JWT Bearer"| AUTH
+    AUTH --> ORCH
+    ORCH --> ADMIN
+
+    ORCH --> |"gRPC<br/>Text Flow"| AI
+    ORCH --> |"gRPC<br/>All Flows"| ROUTING
+
+    ORCH --> PG
+    ORCH --> REDIS
+
+    AI --> |"ExtractRoute()"| ORCH
+    ROUTING --> |"GetRoute()<br/>4 options"| ORCH
+
+    style Client fill:#0d1117,stroke:#58a6ff,color:#c9d1d9
+    style Gateway fill:#0d1117,stroke:#a78bfa,color:#c9d1d9
+    style Services fill:#0d1117,stroke:#f97316,color:#c9d1d9
+    style Infra fill:#0d1117,stroke:#10b981,color:#c9d1d9
+```
 
 ---
 
