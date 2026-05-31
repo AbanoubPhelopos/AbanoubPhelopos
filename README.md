@@ -241,10 +241,80 @@ flowchart TD
 ### ☁️ [Event Management System](https://github.com/6-Brain-Cells/event-management-cloud)
 A high-availability, production-grade cloud-native platform.
 
-- **DevOps Blueprint:** Implemented resilient 4-service platform built in **FastAPI** hosted behind **Nginx Gateway** implementing custom rate limiters and Correlation-ID tracking.
-- **Resiliency Patterns:** Integrated **RabbitMQ Topic Exchanges** with robust Dead Letter Queues (DLQ), Circuit Breakers, and Optimistic Concurrency controls.
-- **GitOps Infrastructure:** Deployments automated completely through **ArgoCD** on **Kubernetes** using custom **Helm Charts**, fully monitored via integrated **Prometheus, Grafana, and Loki**.
-- **🛠️ Tools & Stack:** `Python` · `FastAPI` · `Nginx` · `RabbitMQ` · `Kubernetes` · `Helm` · `ArgoCD` · `Prometheus` · `Grafana` · `Loki`
+<table width="100%">
+  <tr>
+    <td width="50%" valign="center">
+      <img src="assets/event_mockup.png" alt="Event Management Cloud Architecture" width="100%" style="border-radius: 8px;" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚙️ Architecture & Features</h4>
+      <ul>
+        <li><b>Decoupled Microservices:</b> 4 high-performance services built with <b>FastAPI</b> (User, Event, Registration, Notification) orchestrated behind an <b>Nginx API Gateway</b>.</li>
+        <li><b>Resilient Communication:</b> Dynamic inter-service circuit breakers, topic-based routing with Dead Letter Queues (DLQ) in <b>RabbitMQ</b>, and version-based optimistic concurrency controls on PostgreSQL.</li>
+        <li><b>Distributed Caching:</b> High-speed token storage and event response caching using <b>Redis</b> with automated TTL eviction.</li>
+        <li><b>GitOps & Cloud-Native Deployment:</b> Containerized with multi-stage Docker builds, deployed on <b>Kubernetes</b> via custom <b>Helm</b> charts, and fully managed using <b>ArgoCD</b>.</li>
+        <li><b>Observability Pipeline:</b> Complete telemetry stack integrating <b>Prometheus</b> metrics, <b>Loki</b> log aggregation, and custom <b>Grafana</b> dashboards.</li>
+      </ul>
+      <br/>
+      <h4>🛠️ Tools & Stack</h4>
+      <code>Python</code> · <code>FastAPI</code> · <code>RabbitMQ</code> · <code>Redis</code> · <code>PostgreSQL</code> · <code>Nginx</code> · <code>Kubernetes</code> · <code>Helm</code> · <code>ArgoCD</code> · <code>Prometheus</code> · <code>Grafana</code> · <code>Loki</code>
+    </td>
+  </tr>
+</table>
+
+```mermaid
+flowchart TD
+    subgraph Client["🖥️ Client Layer"]
+        B[🌐 Browser / API Client]
+    end
+
+    subgraph Gateway["🚪 API Gateway"]
+        NG[Nginx Reverse Proxy<br/>Rate Limiting & Auth]
+    end
+
+    subgraph Services["⚙️ Microservices"]
+        US[👤 User Service<br/>FastAPI :8001]
+        ES[📅 Event Service<br/>FastAPI :8002]
+        RS[🎫 Registration Service<br/>FastAPI :8003]
+        NS[🔔 Notification Service<br/>FastAPI :8004]
+    end
+
+    subgraph Messaging["📡 Message Broker"]
+        MQ[🐰 RabbitMQ Topic Exchange]
+        DLQ[Dead Letter Queue]
+    end
+
+    subgraph DB["🗄️ Database & Cache"]
+        PG[(🐘 PostgreSQL)]
+        RD[(📡 Redis Cache)]
+    end
+
+    subgraph Telemetry["📊 Observability"]
+        PROM[Prometheus Scrapers]
+        GRAF[Grafana Dashboards]
+    end
+
+    B --> NG
+    NG --> US & ES & RS & NS
+    
+    RS -->|Circuit Breaker| ES
+    US & ES & RS -->|Publish| MQ
+    MQ -->|Consume| NS
+    MQ -.->|Failure| DLQ
+
+    US & ES & RS & NS --> PG
+    US & ES & RS --> RD
+    
+    US & ES & RS & NS -.->|Metrics| PROM
+    PROM --> GRAF
+
+    style Client fill:#0d1117,stroke:#58a6ff,color:#c9d1d9
+    style Gateway fill:#0d1117,stroke:#a78bfa,color:#c9d1d9
+    style Services fill:#0d1117,stroke:#f97316,color:#c9d1d9
+    style DB fill:#0d1117,stroke:#10b981,color:#c9d1d9
+    style Messaging fill:#0d1117,stroke:#e94560,color:#c9d1d9
+    style Telemetry fill:#0d1117,stroke:#a78bfa,color:#c9d1d9
+```
 
 ---
 
